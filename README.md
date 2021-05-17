@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ATStahl (Amanda T. Stahl), a researcher at Washington State University, USA.
 - 👀 I’m interested in spatial analysis and remote sensing to inform ecosystem management and conservation.
 - 🌱 I’m currently learning about cloud-based remote sensing applications.
-- 💞️ I’m looking to collaborate on related activities in research and practice.
+- 💞️ I’m looking to collaborate on related activities in research and practice. (for more info, see https://atstahl.github.io/)
 - 📫 I can be reached via e-mail: atstahl@wsu.edu
 
 <!---
